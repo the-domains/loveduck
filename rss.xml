@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Thom]]></title>
         <description><![CDATA[Thom]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/loveduck/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 01 Feb 2016 05:33:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 01 Feb 2016 05:33:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/loveduck/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e0cb7f7a-da4e-4f9b-834d-5c1f3eab4c9a.JPG">]]></description>
+            <link>https://thegrid.ai/loveduck/37b6ce10-cb55-421a-a09e-36a6deb648da/index.html</link>
+            <guid isPermaLink="false">37b6ce10-cb55-421a-a09e-36a6deb648da</guid>
+            <pubDate>Mon, 01 Feb 2016 05:32:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f6eaad28-b67d-4cd7-bf36-fcf753eadef5.JPG">]]></description>
-            <link>undefined21f3b223-d776-4dc0-a281-37607c1ff880/index.html</link>
+            <link>https://thegrid.ai/loveduck/21f3b223-d776-4dc0-a281-37607c1ff880/index.html</link>
             <guid isPermaLink="false">21f3b223-d776-4dc0-a281-37607c1ff880</guid>
             <pubDate>Mon, 01 Feb 2016 05:32:37 GMT</pubDate>
         </item>
